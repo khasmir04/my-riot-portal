@@ -1,0 +1,9 @@
+.container {
+  background-image: url("https://www.thesun.co.uk/wp-content/uploads/2023/01/League-of-Legends-key-art.jpg");
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
